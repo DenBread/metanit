@@ -10,8 +10,14 @@ namespace Den.Metanit
     {
         static void Main(string[] args)
         {
-            Chapter2.Greeting();
-            Console.ReadKey();
+            int x = 10;
+            int y = 15;
+            GlavaSecond.Addition(ref x, y); // вызов метода
+            Console.WriteLine(x);   // 25
+
+           
+            Console.ReadLine();
+            
         }
     }
 }
