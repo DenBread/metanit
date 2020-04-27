@@ -15,6 +15,8 @@ namespace Den.Metanit
             GlavaSecond.Addition(ref x, y); // вызов метода
             Console.WriteLine(x);   // 25
 
+            Console.WriteLine("Lol");
+
            
             Console.ReadLine();
             
