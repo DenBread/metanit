@@ -5,3 +5,10 @@ C:\Users\GOD\source\repos\Den.Metanit\Den.Metanit\obj\Debug\Den.Metanit.csprojAs
 C:\Users\GOD\source\repos\Den.Metanit\Den.Metanit\obj\Debug\Den.Metanit.csproj.CoreCompileInputs.cache
 C:\Users\GOD\source\repos\Den.Metanit\Den.Metanit\obj\Debug\Den.Metanit.exe
 C:\Users\GOD\source\repos\Den.Metanit\Den.Metanit\obj\Debug\Den.Metanit.pdb
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Den.Metanit\bin\Debug\Den.Metanit.exe.config
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Den.Metanit\bin\Debug\Den.Metanit.exe
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Den.Metanit\bin\Debug\Den.Metanit.pdb
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Den.Metanit\obj\Debug\Den.Metanit.csprojAssemblyReference.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Den.Metanit\obj\Debug\Den.Metanit.csproj.CoreCompileInputs.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Den.Metanit\obj\Debug\Den.Metanit.exe
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Den.Metanit\obj\Debug\Den.Metanit.pdb

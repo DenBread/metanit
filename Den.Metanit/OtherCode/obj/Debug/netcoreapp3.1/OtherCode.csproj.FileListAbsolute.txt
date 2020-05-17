@@ -1,0 +1,12 @@
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\bin\Debug\netcoreapp3.1\OtherCode.exe
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\bin\Debug\netcoreapp3.1\OtherCode.deps.json
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\bin\Debug\netcoreapp3.1\OtherCode.runtimeconfig.json
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\bin\Debug\netcoreapp3.1\OtherCode.runtimeconfig.dev.json
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\bin\Debug\netcoreapp3.1\OtherCode.dll
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\bin\Debug\netcoreapp3.1\OtherCode.pdb
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\obj\Debug\netcoreapp3.1\OtherCode.csproj.CoreCompileInputs.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\obj\Debug\netcoreapp3.1\OtherCode.AssemblyInfoInputs.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\obj\Debug\netcoreapp3.1\OtherCode.AssemblyInfo.cs
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\obj\Debug\netcoreapp3.1\OtherCode.dll
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\obj\Debug\netcoreapp3.1\OtherCode.pdb
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\OtherCode\obj\Debug\netcoreapp3.1\OtherCode.genruntimeconfig.cache

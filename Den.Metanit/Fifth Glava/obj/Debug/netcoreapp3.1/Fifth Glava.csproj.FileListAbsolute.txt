@@ -1,0 +1,13 @@
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\bin\Debug\netcoreapp3.1\Fifth Glava.exe
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\bin\Debug\netcoreapp3.1\Fifth Glava.deps.json
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\bin\Debug\netcoreapp3.1\Fifth Glava.runtimeconfig.json
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\bin\Debug\netcoreapp3.1\Fifth Glava.runtimeconfig.dev.json
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\bin\Debug\netcoreapp3.1\Fifth Glava.dll
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\bin\Debug\netcoreapp3.1\Fifth Glava.pdb
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\obj\Debug\netcoreapp3.1\Fifth Glava.csprojAssemblyReference.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\obj\Debug\netcoreapp3.1\Fifth Glava.csproj.CoreCompileInputs.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\obj\Debug\netcoreapp3.1\Fifth Glava.AssemblyInfoInputs.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\obj\Debug\netcoreapp3.1\Fifth Glava.AssemblyInfo.cs
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\obj\Debug\netcoreapp3.1\Fifth Glava.dll
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\obj\Debug\netcoreapp3.1\Fifth Glava.pdb
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Fifth Glava\obj\Debug\netcoreapp3.1\Fifth Glava.genruntimeconfig.cache

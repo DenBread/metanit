@@ -10,16 +10,21 @@ namespace Den.Metanit
     {
         static void Main(string[] args)
         {
-            int x = 10;
-            int y = 15;
-            GlavaSecond.Addition(ref x, y); // вызов метода
-            Console.WriteLine(x);   // 25
+            int a = 5;
+            Console.WriteLine($"Начальное значение переменной a = {a}");
+            IncrementRef(ref a);
+            Console.WriteLine($"Переменная А после передачи ссылке равна = {a}");
 
-            Console.WriteLine("Lol");
 
-           
             Console.ReadLine();
             
+        }
+        
+        static void IncrementRef(ref int x)
+        {
+            x++;
+            x = 5 + x;
+            Console.WriteLine($"IncrementRef: {x}");
         }
     }
 }

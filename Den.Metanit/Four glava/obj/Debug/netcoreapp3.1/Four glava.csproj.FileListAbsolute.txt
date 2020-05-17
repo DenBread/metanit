@@ -1,0 +1,3 @@
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Four glava\obj\Debug\netcoreapp3.1\Four glava.csproj.CoreCompileInputs.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Four glava\obj\Debug\netcoreapp3.1\Four glava.AssemblyInfoInputs.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\Four glava\obj\Debug\netcoreapp3.1\Four glava.AssemblyInfo.cs

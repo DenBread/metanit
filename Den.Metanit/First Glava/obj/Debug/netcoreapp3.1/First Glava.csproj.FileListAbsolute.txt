@@ -1,0 +1,13 @@
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\bin\Debug\netcoreapp3.1\First Glava.exe
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\bin\Debug\netcoreapp3.1\First Glava.deps.json
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\bin\Debug\netcoreapp3.1\First Glava.runtimeconfig.json
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\bin\Debug\netcoreapp3.1\First Glava.runtimeconfig.dev.json
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\bin\Debug\netcoreapp3.1\First Glava.dll
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\bin\Debug\netcoreapp3.1\First Glava.pdb
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\obj\Debug\netcoreapp3.1\First Glava.csprojAssemblyReference.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\obj\Debug\netcoreapp3.1\First Glava.csproj.CoreCompileInputs.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\obj\Debug\netcoreapp3.1\First Glava.AssemblyInfoInputs.cache
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\obj\Debug\netcoreapp3.1\First Glava.AssemblyInfo.cs
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\obj\Debug\netcoreapp3.1\First Glava.dll
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\obj\Debug\netcoreapp3.1\First Glava.pdb
+C:\Users\Den\Source\Repos\DenBread\metanit\Den.Metanit\First Glava\obj\Debug\netcoreapp3.1\First Glava.genruntimeconfig.cache

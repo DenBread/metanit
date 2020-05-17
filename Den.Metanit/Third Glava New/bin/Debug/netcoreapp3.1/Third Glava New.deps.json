@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Third Glava New/1.0.0": {
+        "dependencies": {
+          "TestLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Third Glava New.dll": {}
+        }
+      },
+      "TestLibrary/1.0.0": {
+        "runtime": {
+          "TestLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Third Glava New/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
